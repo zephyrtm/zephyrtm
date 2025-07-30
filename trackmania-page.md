@@ -5,35 +5,47 @@ Welcome to my Trackmania content hub! Here you'll find skins, maps, challenges, 
 ---
 
 <details>
-  <summary><strong>🖌️ Custom Skins</strong></summary>
+  <summary><strong>Custom Skins</strong></summary>
   <br/>
 
-  ### Breezer (Blue)
-    Trackmania 2020, Stadium
-  [Download](https://www.dropbox.com/scl/fi/kflvomqdenni8qnvrmzky/Breezer_Blue.zip?rlkey=i9gjekklrf5hjrm7a0kzda8rs&st=v5e6x45a&dl=1)  
+  <details>
+    <summary> ### Breezer (Blue)</summary>
+      Trackmania 2020, Stadium
+    [Download](https://www.dropbox.com/scl/fi/kflvomqdenni8qnvrmzky/Breezer_Blue.zip?rlkey=i9gjekklrf5hjrm7a0kzda8rs&st=v5e6x45a&dl=1)  
+  </details>
   <br/>
 
-  ### FE Championship Showcar
-  Trackmania 2020, Stadium  
-  [Download](https://www.dropbox.com/scl/fi/ga45rhydb6bxc3ke7pv6t/FE_Championship_Showcar.zip?rlkey=5qrgcn68su82lr89nlkxomdqu&st=lmvfgyzr&dl=1)  
+  <details>
+    <summary> ### FE Championship Showcar</summary>
+    Trackmania 2020, Stadium  
+    [Download](https://www.dropbox.com/scl/fi/ga45rhydb6bxc3ke7pv6t/FE_Championship_Showcar.zip?rlkey=5qrgcn68su82lr89nlkxomdqu&st=lmvfgyzr&dl=1)  
+  </details>
   <br/>
 
-  ### Frenzilous (Grey)
-  Trackmania 2020, Stadium  
-  [Download](https://www.dropbox.com/scl/fi/9ym1wkc9e6uht1tkt77ki/Frenzilous_Grey.zip?rlkey=h0tlxtbzc41u71hk2ovxcfl57&st=ksn045ni&dl=1)  
+  <details>
+    <summary> ### Frenzilous (Grey)</summary>
+    Trackmania 2020, Stadium  
+    [Download](https://www.dropbox.com/scl/fi/9ym1wkc9e6uht1tkt77ki/Frenzilous_Grey.zip?rlkey=h0tlxtbzc41u71hk2ovxcfl57&st=ksn045ni&dl=1)  
+  </details>
 
-  ### Grey Camo
-  Trackmania 2020, Stadium  
-  [Download](https://www.dropbox.com/scl/fi/w2uxasii5jer9pqwa4t12/GreyCamo.zip?rlkey=fx2n7m7aohabgfgy2clnn7yu9&st=b4wuyfvz&dl=1)
+  <details>
+    <summary> ### Grey Camo</summary>
+    Trackmania 2020, Stadium  
+    [Download](https://www.dropbox.com/scl/fi/w2uxasii5jer9pqwa4t12/GreyCamo.zip?rlkey=fx2n7m7aohabgfgy2clnn7yu9&st=b4wuyfvz&dl=1)
+  </details>
 
-  ### Onyx
-  Trackmania 2020, Stadium  
-  [Download](https://www.dropbox.com/scl/fi/c08b382xbyjt4lp1z09b6/Onyx.zip?rlkey=2mdqfvewdlz3sdmxrs8kts0pd&st=8szq0985&dl=1)
+  <details>
+    <summary> ### Onyx</summary>
+    Trackmania 2020, Stadium  
+    [Download](https://www.dropbox.com/scl/fi/c08b382xbyjt4lp1z09b6/Onyx.zip?rlkey=2mdqfvewdlz3sdmxrs8kts0pd&st=8szq0985&dl=1)
+    </summary>
+  </details>
 
-  ### SYNC Scribble
-  Trackmania 2020, Stadium  
-  [Download](https://www.dropbox.com/scl/fi/hif30m3uqxbx73onh7kg6/SYNC_Scribble.zip?rlkey=7d0309nfq9cnbaavvv2bnthy3&st=ipoyyh89&dl=1)
-</details>
+  <details>
+    <summary> ### SYNC Scribble</summary>
+    Trackmania 2020, Stadium  
+    [Download](https://www.dropbox.com/scl/fi/hif30m3uqxbx73onh7kg6/SYNC_Scribble.zip?rlkey=7d0309nfq9cnbaavvv2bnthy3&st=ipoyyh89&dl=1)
+  </details>
 
 ---
 
@@ -41,17 +53,22 @@ Welcome to my Trackmania content hub! Here you'll find skins, maps, challenges, 
   <summary><strong>Challenges</strong></summary>
   <br/>
 
-  ### Techy Tekky
-  1min 2s, MiniRPG, easy  
-  [Download](https://www.dropbox.com/scl/fi/f7fyoyxarfgckwh4jovuf/Techy-Tekky.Challenge.Gbx?rlkey=upjqldjjcyiz1n6q29cscvj88&st=9i1nwbth&dl=1)
+  <details>
+    <summary> ### Techy Tekky</summary>
+    1min 2s, MiniRPG, easy  
+    [Download](https://www.dropbox.com/scl/fi/f7fyoyxarfgckwh4jovuf/Techy-Tekky.Challenge.Gbx?rlkey=upjqldjjcyiz1n6q29cscvj88&st=9i1nwbth&dl=1)
+  </details>
 
-  ### Speed Heaven
-  1min 8s, fullspeed, speed, mid  
-  [Download](https://www.dropbox.com/scl/fi/jqzbpsnkxldhu9t408152/Speed-Speed-Speed.Challenge.Gbx?rlkey=6e951dqf7ccm23rgfm3xixywf&st=v8flqu06&dl=1)
+  <details>
+    <summary> ### Speed Heaven</summary>
+    1min 8s, fullspeed, speed, mid  
+    [Download](https://www.dropbox.com/scl/fi/jqzbpsnkxldhu9t408152/Speed-Speed-Speed.Challenge.Gbx?rlkey=6e951dqf7ccm23rgfm3xixywf&st=v8flqu06&dl=1)
+  </details>
 
-  ### Wallesley
-  25s, fullspeed, satisfying  
-  [Download](https://www.dropbox.com/scl/fi/koa1av1o6jp2qnzychg8o/Wallesley.Challenge.Gbx?rlkey=8qt2vd8g99litn6jlo8kt8lx0&st=n15wt86v&dl=1)
+  <details>
+    <summary> ### Wallesley</summary>
+    25s, fullspeed, satisfying  
+    [Download](https://www.dropbox.com/scl/fi/koa1av1o6jp2qnzychg8o/Wallesley.Challenge.Gbx?rlkey=8qt2vd8g99litn6jlo8kt8lx0&st=n15wt86v&dl=1)
 </details>
 
 ---
