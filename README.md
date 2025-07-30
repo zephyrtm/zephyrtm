@@ -12,7 +12,6 @@
   I’m looking to collaborate on Clustertruck save data editing software.   
 </p>
 
----
 
 <!-- Links to Pages -->
 ## 📂 Projects
