@@ -8,7 +8,7 @@
 
 <!-- About Me -->
 <p align="center">  
-  I’m currently learning C++!  
+  I’m currently learning C++!  <br>
   I’m looking to collaborate on Clustertruck save data editing software.   
 </p>
 
