@@ -10,29 +10,29 @@ Welcome to my Trackmania content hub! Here you'll find skins, maps, challenges, 
 
   ### Breezer (Blue)
     Trackmania 2020, Stadium
-  [Download](zephyrtm.github.io/dl/skins/Breezer_Blue.zip)  
+  [Download](https://www.zephyrtm.github.io/dl/skins/Breezer_Blue.zip)  
   <br/>
 
   ### FE Championship Showcar
   Trackmania 2020, Stadium  
-  [Download](zephyrtm.github.io/dl/skins/FE_Championship_Showcar.zip)  
+  [Download](https://www.zephyrtm.github.io/dl/skins/FE_Championship_Showcar.zip)  
   <br/>
 
   ### Frenzilous (Grey)
   Trackmania 2020, Stadium  
-  [Download](zephyrtm.github.io/dl/skins/Frenzilous_Grey.zip)  
+  [Download](https://www.zephyrtm.github.io/dl/skins/Frenzilous_Grey.zip)  
 
   ### Grey Camo
   Trackmania 2020, Stadium  
-  [Download](zephyrtm.github.io/dl/skins/GreyCamo.zip)
+  [Download](https://www.zephyrtm.github.io/dl/skins/GreyCamo.zip)
 
   ### Onyx
   Trackmania 2020, Stadium  
-  [Download](zephyrtm.github.io/dl/skins/Onyx.zip)
+  [Download](https://www.zephyrtm.github.io/dl/skins/Onyx.zip)
 
   ### SYNC Scribble
   Trackmania 2020, Stadium  
-  [Download](zephyrtm.github.io/dl/skins/SYNC_Scribble)
+  [Download](https://www.zephyrtm.github.io/dl/skins/SYNC_Scribble)
 </details>
 
 ---
@@ -43,15 +43,15 @@ Welcome to my Trackmania content hub! Here you'll find skins, maps, challenges, 
 
   ### Techy Tekky
   1min 2s, MiniRPG, easy  
-  [Download](zephyrtm.github.io/dl/maps/Techy-Tekky.Challenge.gbx)
+  [Download](https://www.zephyrtm.github.io/dl/maps/Techy-Tekky.Challenge.gbx)
 
   ### Speed Heaven
   1min 8s, fullspeed, speed, mid  
-  [Download](zephyrtm.github.io/dl/maps/Speed-Speed-Speed.Challenge.gbx)
+  [Download](https://www.zephyrtm.github.io/dl/maps/Speed-Speed-Speed.Challenge.gbx)
 
   ### Wallesley
   25s, fullspeed, satisfying  
-  [Download](zephyrtm.github.io/dl/maps/Wallesley.Challenge.gbx)
+  [Download](https://www.zephyrtm.github.io/dl/maps/Wallesley.Challenge.gbx)
 </details>
 
 ---
