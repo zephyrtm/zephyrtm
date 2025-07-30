@@ -20,4 +20,4 @@
 - [SteamInstaller](https://github.com/zephyrtm/steaminstaller)
 - [Retro Arcade](https://github.com/zephyrtm/retroarcade)
 ## 📂 Resources
-- [Trackmania Resources](./trackmania-resources.md)
+- [Trackmania Resources](./trackmania-page.md)
