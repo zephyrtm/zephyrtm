@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME.png" width="150" style="border-radius: 50%;" alt="Profile"/>
+  <img src="https://github.com/pfp.png" width="150" style="border-radius: 50%;" alt="Profile"/>
 </p>
 
 <!-- Heading -->
