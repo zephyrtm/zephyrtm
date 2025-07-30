@@ -9,9 +9,9 @@ Welcome to my Trackmania content hub! Here you'll find skins, maps, challenges, 
   <br/>
 
   <details>
-    <summary> ### Breezer (Blue)</summary>
+    <summary><h3>Breezer (Blue)</h3></summary>
       Trackmania 2020, Stadium
-    [Download](https://www.dropbox.com/scl/fi/kflvomqdenni8qnvrmzky/Breezer_Blue.zip?rlkey=i9gjekklrf5hjrm7a0kzda8rs&st=v5e6x45a&dl=1)  
+    <a href="https://www.dropbox.com/scl/fi/kflvomqdenni8qnvrmzky/Breezer_Blue.zip?rlkey=i9gjekklrf5hjrm7a0kzda8rs&st=v5e6x45a&dl=1" "Download"  
   </details>
   <br/>
 
