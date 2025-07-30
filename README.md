@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME.png" width="150" style="border-radius: 50%;" alt="Profile"/>
+</p>
 
-<!--
-**zephyrtm/zephyrtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Heading -->
+<h1 align="center">Welcome to my page!</h1>
 
-Here are some ideas to get you started:
+<!-- About Me -->
+<p align="center">  
+  I’m currently learning C++!  
+  I’m looking to collaborate on Clustertruck save data editing software.   
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Links to Pages -->
+## 📂 Projects
+- [PolarisDLL](https://github.com/zephyrtm/PolarisDLL)
+- [TruckClusterer](https://github.com/zephyrtm/Clustertruck-Save-Backupper)
+- [SteamInstaller](https://github.com/zephyrtm/steaminstaller)
+- [Retro Arcade](https://github.com/zephyrtm/retroarcade)
+## 📂 Resources
+- [Trackmania Resources](./trackmania-resources.md)
