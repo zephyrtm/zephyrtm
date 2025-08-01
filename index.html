@@ -33,10 +33,31 @@
       padding: 1em;
     }
 
+    .link-list {
+      display: inline-block;
+      text-align: left;
+      margin-top: 1.5em;
+    }
+
+    .link-list a {
+      display: block;
+      margin: 0.4em 0;
+      color: #007acc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .link-list a:hover {
+      text-decoration: underline;
+    }
+
+    .resource-links {
+      margin-top: 2em;
+    }
+
     a.button {
       display: inline-block;
       padding: 0.6em 1.2em;
-      margin-top: 2em;
       background-color: #007acc;
       color: white;
       text-decoration: none;
@@ -46,6 +67,10 @@
 
     a.button:hover {
       background-color: #005a99;
+    }
+
+    h2 {
+      margin-top: 2em;
     }
   </style>
 </head>
@@ -57,14 +82,17 @@
 
   <section>
     <h2>📂 Projects</h2>
-    <p>
+    <div class="link-list">
       <a href="https://github.com/zephyrtm/PolarisDLL">PolarisDLL</a>
       <a href="https://github.com/zephyrtm/Clustertruck-Save-Backupper">TruckClusterer</a>
       <a href="https://github.com/zephyrtm/steaminstaller">Alternative Steam Installer</a>
       <a href="https://github.com/zephyrtm/retroarcade">Retro Arcade</a>
-    </p>
+    </div>
+
     <h2>📂 Resources</h2>
-    <a class="button" href="trackmania-page.html">Trackmania Resources</a>
+    <div class="resource-links">
+      <a class="button" href="trackmania-page.html">Trackmania Resources</a>
+    </div>
   </section>
 </body>
 </html>
